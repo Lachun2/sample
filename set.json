@@ -1,17 +1,17 @@
 {
-  "ver":1.0,
-  "se":{
-    "25":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(11).wav"},
-    "26":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(11).wav"},
-    "27":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(4).wav"},
-    "28":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(4).wav"},
-    "29":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(14).wav"},
-    "30":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(14).wav"},
-    "31":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(12).wav"},
-    "32":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(12).wav"},
-    "33":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(13).wav"},
-    "34":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(13).wav"},
-    "35":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(9).wav"},
-    "36":{"url":"https://github.com/Lachun2/sample/blob/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20(9).wav"}
+  "ver": "1.0",
+  "se": {
+    "25":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2811%29.wav"},
+    "26":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2811%29.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%284%29.wav"},
+    "28":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%284%29.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2814%29.wav"},
+    "30":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2814%29.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2812%29.wav"},
+    "32":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2812%29.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2813%29.wav"},
+    "34":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%2813%29.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%289%29.wav"},
+    "36":{"url":"https://raw.githubusercontent.com/Lachun2/sample/dc73dd4b3cd59d359c313346ef09706a781e1e7f/audio%20%289%29.wav"}
   }
 }
